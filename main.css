@@ -1,0 +1,19 @@
+div#ejemplo1 a {
+	text-decoration: none;
+	color: blue;
+}
+
+div#ejemplo1 em {
+	text-decoration: none;
+	color: blue;
+}
+
+div#ejemplo2 ul#ejemplo2 li.menu a{
+	text-decoration: none;
+	color: green;
+}
+
+ul#ejemplo3 a.menu {
+	text-decoration: none;
+	color: green;
+}
